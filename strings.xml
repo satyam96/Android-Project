@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LNMIIT Guest Room</string>
+    <string name="textView">The LNM Institute of Information Technology, Jaipur</string>
+    <string name="imageView">Wallpaper</string>
+    <string name="button">Status</string>
+    <string name="button2">Registration</string>
+</resources>
